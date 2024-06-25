@@ -1,0 +1,24 @@
+body {
+    background-color: antiquewhite;
+}
+
+p1 {
+    text-align: center;
+    font-family: "Prompt", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+div1 {
+    text-align: center;
+    font-family: "Prompt", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+}
+
+div {
+    text-align: center;
+    font-family: "Prompt", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+}
